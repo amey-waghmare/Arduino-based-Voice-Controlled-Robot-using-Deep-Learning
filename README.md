@@ -11,4 +11,5 @@ Training Result:
 * Obtained loss of 0.0359 and 0.0496 on training and validation dataset
 * ![Training Loss over Epochs](https://github.com/amey-waghmare/Arduino-based-Voice-Controlled-Robot-using-Deep-Learning/blob/main/training.png?raw=true)
 * Prediction by using computer's mic (say the command inside the 3 seconds window)
+* The prediction output is a softmax, giving probability of each class, argmax is used to find that class which has high probability
 * ![Prediction](https://github.com/amey-waghmare/Arduino-based-Voice-Controlled-Robot-using-Deep-Learning/blob/main/Prediction.png?raw=true)
