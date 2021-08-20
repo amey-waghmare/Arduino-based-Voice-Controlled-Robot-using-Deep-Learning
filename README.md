@@ -9,4 +9,4 @@ Training Result:
 120/120 [==============================] - 13s 107ms/step - loss: 0.0359 - accuracy: 0.9902 - val_loss: 0.0496 - val_accuracy: 0.9870
 
 * Obtained loss of 0.0359 and 0.0496 on training and validation dataset
-* ![Prediction](https://github.com/[amey-waghmare]/[Arduino-based-Voice-Controlled-Robot-using-Deep-Learning]/blob/[main]/Prediction.png?raw=true)
+* ![Prediction](https://github.com/amey-waghmare/Arduino-based-Voice-Controlled-Robot-using-Deep-Learning/blob/main/Prediction.png?raw=true)
