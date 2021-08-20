@@ -4,3 +4,8 @@
 * Performed audio pre-processing and feature extraction using Mel Spectrogram and trained a Deep NN model.
 * Implemented a differential drive robot using Arduino to implement decisions based on voice commands
 
+Training Result:
+* Epoch 10/10
+120/120 [==============================] - 13s 107ms/step - loss: 0.0359 - accuracy: 0.9902 - val_loss: 0.0496 - val_accuracy: 0.9870
+
+* Obtained loss of 0.0359 and 0.0496 on training and validation dataset
